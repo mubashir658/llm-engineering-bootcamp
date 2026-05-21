@@ -1,0 +1,6 @@
+Artificial intelligence is transforming the world at an unprecedented pace. Machine learning models can now generate text, images, and even
+code. Large language models are trained on vast amounts of internet data. Python is the most popular language for AI
+and machine learning development. Vector databases store embeddings and allow fast similarity search. RAG stands for Retrieval Augmented Generation and
+is widely used in AI apps. Fine tuning allows you to train a model on your own custom dataset. Prompt
+engineering is the skill of designing inputs to get better outputs. Hyderabad is becoming a major hub for AI startups
+and research in India. OpenAI GPT models can understand and generate human like text very well.
