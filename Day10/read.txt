@@ -1,0 +1,12 @@
+Day 10 — Streamlit UI
+Core concept:
+
+Streamlit reruns the entire script top to bottom every time the user interacts. So normal variables reset — you use st.session_state to persist data across reruns.
+Key components you learned:
+Component   What it doesst
+title() ------Big heading
+st.caption()----Small subtitle text
+st.chat_message()-------Chat bubble (user or assistant)
+st.chat_input()----------Text input box at bottom
+st.session_state--------Persists data across reruns
+st.spinner()------------Loading animation
