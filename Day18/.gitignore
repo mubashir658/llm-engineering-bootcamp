@@ -1,4 +1,5 @@
 .env
+rag_db
+rag_db/
 __pycache__/
 *.pyc
-rag_db/
